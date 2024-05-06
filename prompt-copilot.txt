@@ -1,0 +1,4 @@
+cara membuat agar program dapat membaca inputan pada .text yang ada
+bagaimana cara agar dalam program kita dapat menggunakan data dari file .txt?
+bagaimana cara penggunaan fopen dalam program c?
+apakah kita perlu menginisialisasikan FILE *file = fopen("path_ke_file.txt", "r"); sebelum menggunaknnya?
